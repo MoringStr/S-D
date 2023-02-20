@@ -46,6 +46,7 @@
 		3D25BBEC232DD87200E9CE6D /* 双色球.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "双色球.h"; sourceTree = "<group>"; };
 		3D25BBED232DD87E00E9CE6D /* 大乐透.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "大乐透.h"; sourceTree = "<group>"; };
 		3D25BBEE232DD88700E9CE6D /* 混合.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "混合.h"; sourceTree = "<group>"; };
+		3D292ABC29A37B9100D3932E /* 2023.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 2023.h; sourceTree = "<group>"; };
 		3DB86FE02781C556006EB9D0 /* 2022.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 2022.h; sourceTree = "<group>"; };
 		3DE0DE9325AA003400185562 /* 2021年.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "2021年.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -104,6 +105,7 @@
 				3D14C77B23C02F0500BA3A2D /* 2020 年.h */,
 				3DE0DE9325AA003400185562 /* 2021年.h */,
 				3DB86FE02781C556006EB9D0 /* 2022.h */,
+				3D292ABC29A37B9100D3932E /* 2023.h */,
 			);
 			path = "S-D";
 			sourceTree = "<group>";
